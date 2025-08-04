@@ -17,6 +17,6 @@ CREATE TABLE `songs` (
 	`name` VARCHAR(50) NOT NULL,
 	`artist_name` VARCHAR(50) NOT NULL,
 	`feat_name` VARCHAR(75),
-	`album_name` VARCHAR(75) NOT NULL,
+	`album_name` VARCHAR(75),
 	`from_country` VARCHAR(30) NOT NULL
 );
