@@ -25,7 +25,7 @@ Além de ser o projeto final do curso, este trabalho também teve como metas:
 
 
 ```
-analise-de-dados-com-SQL-spotify/
+Analise-de-dados-com-SQL-spotify/
 │
 ├── README.md
 │
