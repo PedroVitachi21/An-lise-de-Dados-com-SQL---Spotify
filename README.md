@@ -1,4 +1,4 @@
-# 💻🎵 Análise de Dados com SQL ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+# 🎵 Análise de Dados com SQL 📊 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
 Este projeto demonstra o uso prático dos conhecimentos de SQL adquiridos no curso **"CS50 - Introduction to Databases with SQL"**, oferecido pela **Universidade de Harvard**. 
 
