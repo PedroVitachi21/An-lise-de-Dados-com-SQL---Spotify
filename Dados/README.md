@@ -1,4 +1,4 @@
-## ❗ Informações importantes
+## ❗Informações importantes
 
 Esta pasta contém os arquivos responsáveis pela **criação, inserção e manipulação dos dados** no banco de dados utilizado no projeto.
 
