@@ -17,7 +17,7 @@ Além de ser o projeto final do curso, este trabalho também teve como metas:
 
 ## 👨‍💻 Tecnologias Utilizadas
 
-- **MySQL** – Modelagem, criação do banco de dados, escrita e otimização das queries;
+- **MySQL** – Modelagem, criação, escrita e otimização das queries e do banco de dados;
 - **Spotify** – Fonte dos dados utilizados no projeto;
 - **GitHub** – Organização e versionamento do projeto.
 
