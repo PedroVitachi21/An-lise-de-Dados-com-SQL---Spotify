@@ -29,12 +29,12 @@ Analise-de-dados-com-SQL-spotify/
 │
 ├── README.md
 │
-├── dados/
+├── Dados/
 │ ├── tables.sql # Criação das tabelas
 │ ├── inserts.sql # Inserção dos dados
 │ └── updates.sql # Atualizações nos dados
 │
-├── queries/
+├── Queries/
 │ ├── Longest_albums_time.sql # Álbuns com maior duração
 │ ├── Album_least_tracks.sql # Álbuns com menos faixas
 │ ├── Album_artists.sql # Informações de álbuns e artistas
