@@ -19,7 +19,7 @@ Além de ser o projeto final do curso, este trabalho também teve como metas:
 
 - **MySQL** – Modelagem, criação do banco de dados, escrita e otimização das queries;
 - **Spotify** – Fonte dos dados utilizados no projeto;
-- **GitHub** - Organização e versionamento do projeto.
+- **GitHub** – Organização e versionamento do projeto.
 
 
 ## 💼 Estrutura do Projeto
