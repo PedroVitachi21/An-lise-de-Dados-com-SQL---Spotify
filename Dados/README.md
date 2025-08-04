@@ -4,6 +4,6 @@ Esta pasta contém os arquivos responsáveis pela **criação, inserção e mani
 
 ### Arquivos incluídos:
 
-- `tables.sql` – Script para criação das tabelas do banco de dados.
-- `inserts.sql` – Inserção dos dados obtidos pelo aplicativo Spotify.
+- `tables.sql` – Script para criação das tabelas do banco de dados;
+- `inserts.sql` – Inserção dos dados obtidos pelo aplicativo Spotify;
 - `updates.sql` – Atualizações aplicadas após a inserção inicial.
