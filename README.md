@@ -30,11 +30,13 @@ Analise-de-dados-com-SQL-spotify/
 ├── README.md
 │
 ├── Dados/
+│ ├── README.md # Informações sobre os scripts incluídos na pasta
 │ ├── Tables.sql # Criação das tabelas
 │ ├── Inserts.sql # Inserção dos dados
 │ └── Updates.sql # Atualizações nos dados
 │
 ├── Queries/
+│ ├── README.md # Informações sobre os scripts incluídos na pasta
 │ ├── Longest_albums_time.sql # Álbuns com maior duração
 │ ├── Album_least_tracks.sql # Álbuns com menos faixas
 │ ├── Album_artists.sql # Informações de álbuns e artistas
