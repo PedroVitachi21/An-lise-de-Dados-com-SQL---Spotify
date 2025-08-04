@@ -6,8 +6,8 @@ Esta pasta contém **consultas SQL** utilizadas para explorar os dados coletados
 
 ### Arquivos incluídos:
 
-`Album_least_tracks.sql` - Identifica os álbuns com o menor número de faixas;                    
 `Album_artists.sql` - Mostra os álbuns junto às informações dos artistas;   
+`Album_least_tracks.sql` - Identifica os álbuns com o menor número de faixas;                    
 `Albums_brazil_less_fifty_minutes.sql` - Mostra álbuns brasileiros com menos de 50 minutos de duração;          
 `Albums_more_one_hour_less_twenty_tracks.sql` - Retorna álbuns com mais de 1 hora e menos de 20 faixas;          
 `Longest_albums_time.sql` - Retorna os álbuns com maior tempo total de duração;                  
