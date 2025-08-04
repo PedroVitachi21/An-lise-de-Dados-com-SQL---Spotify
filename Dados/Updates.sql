@@ -3,6 +3,10 @@ SET `feat_name` = 'No features'
 WHERE `feat_name` = '';
 
 UPDATE `songs`
+SET `album_name` = 'Single'
+WHERE `album_name` = '';
+
+UPDATE `songs`
 SET `album_name` = '8 Mile (Music From and Inspired By The Motion Picture)'
 WHERE `album_name` = '8 Mile';
 
