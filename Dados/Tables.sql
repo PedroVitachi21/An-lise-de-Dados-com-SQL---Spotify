@@ -8,7 +8,7 @@ CREATE TABLE `artists`(
 
 CREATE TABLE `albums` (
     `name` VARCHAR(50) NOT NULL,
-    `release_date` DATE NOT NULL,
+    `release_year` INT NOT NULL,
 	`duration` TIME NOT NULL,
 	`no_tracks` INT NOT NULL
 );
