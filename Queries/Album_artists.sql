@@ -6,6 +6,6 @@ SELECT DISTINCT `albums`.`name` AS 'Album name',
 `artists`.`is_group` AS 'Solo artist or group of artists',
 `songs`.`from_country` AS 'Origin country'
 FROM `songs` 
-JOIN `albums` ON `albums`.`name` = `songs`.`album_name`
-JOIN `artists` ON `artists`.`name` = `songs`.`artist_name`
+JOIN `albums` ON `albums`.`id` = `songs`.`album_id`
+JOIN `artists` ON `artists`.`id` = `songs`.`artist_id`
 ORDER BY `albums`.`no_tracks` DESC;
