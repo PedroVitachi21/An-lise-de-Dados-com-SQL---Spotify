@@ -3,7 +3,7 @@ SELECT DISTINCT `albums`.`name` AS 'Album name',
 `albums`.`duration` AS 'Running time',
 `artists`.`name` AS 'Artist/Group name'
 FROM `songs` 
-JOIN `albums` ON `albums`.`name` = `songs`.`album_name`
-JOIN `artists` ON `artists`.`name` = `songs`.`artist_name`
+JOIN `albums` ON `albums`.`id` = `songs`.`album_id`
+JOIN `artists` ON `artists`.`id` = `songs`.`artist_id`
 WHERE `albums`.`duration` > '01:00:00'
 AND `albums`.`no_tracks` < 20;
