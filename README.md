@@ -34,6 +34,7 @@ Analise-de-dados-com-SQL-spotify/
 │ ├── README.md # Informações sobre os scripts incluídos na pasta
 │ ├── Tables.sql # Criação das tabelas
 │ ├── Inserts.sql # Inserção dos dados
+│ ├── Indexes.sql # Índices para otimização da busca
 │ └── Updates.sql # Atualizações nos dados
 │
 ├── Queries/
