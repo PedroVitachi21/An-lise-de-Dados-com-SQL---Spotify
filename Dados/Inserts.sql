@@ -140,7 +140,7 @@ VALUES ('8 Mile (Music From and Inspired By The Motion Picture)', 2002, '01:08:0
 ('The Low End Theory', 1991, '00:47:00', 14),
 ('O MENINO QUE QUERIA SER DEUS', 2018, '00:39:00', 10),
 ('Heresia', 2017, '00:33:00', 10),
-('Pra Quem Já Mordeu Um Cachorro por Comida Até Que EU Cheguei Longe', 2009, '01:18:00', 25);
+('Pra Quem Já Mordeu Um Cachorro por Comida Até Que Eu Cheguei Longe', 2009, '01:18:00', 25);
 
 INSERT INTO `songs`(`name`, `artist_id`, `album_id`, `feat_name`, `from_country`) 
 VALUES ('Rabbit Run', 1, 1, '', 'Estados Unidos'),
