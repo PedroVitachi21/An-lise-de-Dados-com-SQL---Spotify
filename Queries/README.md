@@ -13,7 +13,7 @@ Esta pasta contém **consultas SQL** utilizadas para explorar os dados coletados
 `Artists_number_songs.sql` - Mostra o número de sons registrados no banco de dados por artista;
 `Longest_albums_time.sql` - Retorna os álbuns com maior tempo total de duração;                  
 `Longest_song_title.sql` - Exibe a música com o maior número de caracteres no título;           
-`Shortest_song_names.sql` - Lista as 10 músicas com os títulos mais curtos. 
-`Songs_album_less_one_hour.sql` - Retorna os sons que fazem parte de álbuns com menos de uma hora de duração
-`Songs_featured.sql` - Identifica os sons que possuem participações
-`Songs_groups.sql` - Exibe os sons produzidos por grupos de artistas
+`Shortest_song_names.sql` - Lista as 10 músicas com os títulos mais curtos;
+`Songs_album_less_one_hour.sql` - Retorna os sons que fazem parte de álbuns com menos de uma hora de duração;
+`Songs_featured.sql` - Identifica os sons que possuem participações;
+`Songs_groups.sql` - Exibe os sons produzidos por grupos de artistas.
