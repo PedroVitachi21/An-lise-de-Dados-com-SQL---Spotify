@@ -45,6 +45,10 @@ Analise-de-dados-com-SQL-spotify/
 │ ├── Longest_song_title.sql # Música com o maior título
 │ ├── Shortest_song_names.sql # 10 músicas com os menores títulos
 │ ├── Albums_brazil_less_fifty_minutes.sql # Álbuns brasileiros com menos de 50 minutos
+│ ├── `Songs_featured.sql` # Sons que possuem participações
+│ ├── `Songs_album_less_one_hour.sql` # Sons que fazem parte de álbuns com menos de uma hora
+│ ├── `Songs_groups.sql` # Sons produzidos por grupos de artistas
+│ ├── `Artists_number_songs.sql` # Número de sons por artista
 │ └── Albums_more_one_hour_less_twenty_tracks.sql # Álbuns com +1h e <20 faixas
 ```
 
