@@ -14,3 +14,5 @@ Esta pasta contém **consultas SQL** utilizadas para explorar os dados coletados
 `Longest_albums_time.sql` - Retorna os álbuns com maior tempo total de duração;                  
 `Longest_song_title.sql` - Exibe a música com o maior número de caracteres no título;           
 `Shortest_song_names.sql` - Lista as 10 músicas com os títulos mais curtos.                  
+`Songs_featured.sql` - identifica os sons que possuem participações
+`Songs_groups.sql` - Exibe os sons produzidos por grupos de artistas
