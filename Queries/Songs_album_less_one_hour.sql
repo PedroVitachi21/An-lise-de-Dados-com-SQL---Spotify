@@ -1,6 +1,5 @@
 SELECT `songs`.`name` AS 'Song name',
-`albums`.`name` AS 'Album name',
-`albums`.`no_tracks` AS 'Number of tracks', 
+`albums`.`name` AS 'Album name', 
 `albums`.`duration` AS 'Running time',
 `artists`.`name` AS 'Artist/Group name'
 FROM `songs` 
